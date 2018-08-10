@@ -1,0 +1,48 @@
+/* definicion a los objetos de la pagina*/
+body{
+    background-color: blueviolet;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+/**/
+nav a{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: darkred; 
+}
+
+
+/* definir estilos como clases*/
+
+.Titulo1{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 50px;
+   color: rgb(255, 230, 0);
+}
+
+.divImagen{
+    padding: 15px;
+}
+
+.Divformulario{
+    background-image: url("../img/3.png");
+}
+
+/*definicion de estilo por id*/
+#txtRut{
+    font-family: fantasy;
+    font-size: 15px;
+}
+#rbtEstadoCivil{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: darksalmon;
+}
+
+
+
+
+
